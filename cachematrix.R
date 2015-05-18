@@ -1,5 +1,15 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+##
+## makeCacheMatrix function creates a list of functions and 
+## the functions just set or get the value of a matrix
+## you can put a matrix as an input and the function only stores a list of the values
+##
+## cacheSolve function returns the inverse of a matrix and cache the value
+## you can put a list as an input(in terms of makeCacheMatrix())
+## if there is a cached data, the function jsut returns it
+## if there is no cached data, the function calculates the inverse of the matrix
+## and caches the value
 
 ## Write a short comment describing this function
 
